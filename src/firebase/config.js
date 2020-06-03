@@ -4,14 +4,7 @@ import "firebase/firestore";
 import "firebase/storage";
 
 const config = {
-    apiKey: "AIzaSyCxU2w9gdVQ-9osmc_B9YKs6GocGlkHEsU",
-    authDomain: "liberameappusinghooks.firebaseapp.com",
-    databaseURL: "https://liberameappusinghooks.firebaseio.com",
-    projectId: "liberameappusinghooks",
-    storageBucket: "liberameappusinghooks.appspot.com",
-    messagingSenderId: "538501554393",
-    appId: "1:538501554393:web:b38808b6a333a859c8dec8",
-    measurementId: "G-7EF3ZMRYY4"
+   
 };
 
 
