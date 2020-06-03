@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9ea3c3a.chunk.css",
+    "main.js": "/static/js/main.1620a939.chunk.js",
+    "main.js.map": "/static/js/main.1620a939.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ef8f4049.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ef8f4049.js.map",
+    "static/js/2.297ee357.chunk.js": "/static/js/2.297ee357.chunk.js",
+    "static/js/2.297ee357.chunk.js.map": "/static/js/2.297ee357.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cef514751b239d3a8817cb6618b74883.js": "/precache-manifest.cef514751b239d3a8817cb6618b74883.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a9ea3c3a.chunk.css.map": "/static/css/main.a9ea3c3a.chunk.css.map",
+    "static/js/2.297ee357.chunk.js.LICENSE.txt": "/static/js/2.297ee357.chunk.js.LICENSE.txt",
+    "static/media/a1.png": "/static/media/a1.281109e2.png",
+    "static/media/a7.png": "/static/media/a7.d377f106.png",
+    "static/media/a8.png": "/static/media/a8.157105f7.png",
+    "static/media/a9.png": "/static/media/a9.d483fb47.png",
+    "static/media/calefont10.png": "/static/media/calefont10.5491b5d7.png",
+    "static/media/calefont11.png": "/static/media/calefont11.dee65052.png",
+    "static/media/calefont14.png": "/static/media/calefont14.f581b745.png",
+    "static/media/calefont15.png": "/static/media/calefont15.6a04cc5e.png",
+    "static/media/calefont4.png": "/static/media/calefont4.e88776dc.png",
+    "static/media/calefont5.png": "/static/media/calefont5.3e0f413f.png",
+    "static/media/calefont6.png": "/static/media/calefont6.6a5a5e9c.png",
+    "static/media/calefont7.png": "/static/media/calefont7.7a69b045.png",
+    "static/media/calefont8.png": "/static/media/calefont8.de46cfc2.png",
+    "static/media/calefont9.png": "/static/media/calefont9.4b8a0a24.png",
+    "static/media/car14.png": "/static/media/car14.429d18d2.png",
+    "static/media/chile.png": "/static/media/chile.f93bf41e.png",
+    "static/media/facebook.png": "/static/media/facebook.5c9726b1.png",
+    "static/media/instagram.png": "/static/media/instagram.69a36267.png",
+    "static/media/messenger.png": "/static/media/messenger.dec07bec.png",
+    "static/media/whatsapp-2.png": "/static/media/whatsapp-2.d3f13ae1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef8f4049.js",
+    "static/js/2.297ee357.chunk.js",
+    "static/css/main.a9ea3c3a.chunk.css",
+    "static/js/main.1620a939.chunk.js"
+  ]
+}
