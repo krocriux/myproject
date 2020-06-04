@@ -11,12 +11,12 @@ export default function SimpleContainer() {
     
     <React.Fragment>
       
-      <CssBaseline />
+      
       <div style={{marginTop: '10px', height: '400px', backgroundColor: '#F6F8FD'}}> 
       
       <Container >
       
-      <Typography component="div" style={{backgroundSize:'100%', backgroundImage:'#F6F8FD',width: '100%',backgroundrepeat: 'no-repeat'}}>
+      <div component="div" style={{backgroundSize:'100%', backgroundImage:'#F6F8FD',width: '100%',backgroundrepeat: 'no-repeat'}}>
       
      
       
@@ -35,7 +35,7 @@ export default function SimpleContainer() {
     
     
     
-      </Typography>
+      </div>
 
       
       
