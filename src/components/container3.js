@@ -12,7 +12,7 @@ export default function SimpleContainer() {
     <React.Fragment>
       
       
-      <div style={{marginTop: '10px', height: '400px', backgroundColor: '#F6F8FD'}}> 
+      <div style={{marginTop: '-20px', height: '400px', backgroundColor: '#F6F8FD'}}> 
       
       <Container >
       

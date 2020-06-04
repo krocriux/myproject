@@ -25,7 +25,7 @@ export default class boxservice extends Component {
                 
                 <div style={{
                     
-                    height: '80px', 
+                    height: '60px',
                     width:'168px', 
                     backgroundColor: 'white', 
                     paddingTop: '150px',

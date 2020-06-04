@@ -18,7 +18,7 @@ export default function SimpleContainer() {
     
     <React.Fragment>
       <div />
-      <div style={{marginTop: '-10px', height: '600px', backgroundColor: '#FAFAF8', width: 'auto'}}> 
+      <div style={{marginTop: '-20px', height: '600px', backgroundColor: '#FAFAF8', width: 'auto'}}> 
       <div>
       
       <div component="div" style={{marginTop: '-15px', backgroundImage:'#F2F2F2',height: '780px',width: 'auto'}}>
