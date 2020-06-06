@@ -55,7 +55,7 @@ nav {
   overflow: hidden;
   top: 0px;
   display: flex;
-  position: absolute;
+  position: relative;
   align-items: center;
   width: 100%;
   height: 65px;

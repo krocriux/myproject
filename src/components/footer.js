@@ -3,7 +3,7 @@ import Car1 from '../images/chile.png'
 import Car2 from '../images/whatsapp-2.png'
 import Car3 from '../images/messenger.png'
 import Car4 from '../images/facebook.png'
-import Car5 from '../images/instagram.png'
+import Car5 from '../images/instagram-sketched.png'
 
 
 export default class footer extends Component {
@@ -28,7 +28,23 @@ export default class footer extends Component {
       <h1 style={{fontSize: '17px', marginTop: '30px', marginLeft: '30px',color: 'white'}}>Únete al club</h1>
       <p style={{ fontSize: '14px',marginLeft: '30px', color: 'white'}}>Suscríbete a nuestro boletín.</p>
       
+      <div style={{height: '31px', width:'31px', backgroundImage:`url(${Car2})`, backgroundSize: '100%',marginTop: '30px',marginLeft: '1100px',borderRadius: ''}}  > 
+        
+      <div style={{height: '31px', width:'31px', backgroundImage:`url(${Car3})`, backgroundSize: '100%',marginTop: '-65px',marginLeft: '45px',borderRadius: ''}}> 
       
+      <div style={{height: '31px', width:'31px', backgroundImage:`url(${Car4})`, backgroundSize: '100%',marginTop: '-65px',marginLeft: '45px',borderRadius: ''}}> 
+      <div style={{height: '31px', width:'31px', backgroundImage:`url(${Car5})`, backgroundSize: '100%',marginTop: '-65px',marginLeft: '45px',borderRadius: ''}}> 
+      <div style={{height: '31px', width:'31px', backgroundSize: '100%',marginTop: '-65px',marginLeft: '45px',borderRadius: ''}}> 
+      
+      
+      </div>
+      
+      </div>
+      
+      </div>
+      </div>
+      
+      </div>
       
       
       </div>

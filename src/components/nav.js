@@ -36,13 +36,14 @@ const Nav = (props) => {
     if((loginSelector.user && loginSelector.user.hasOwnProperty("user")) || (signinSelector.user && signinSelector.user.hasOwnProperty("user")) || userState != null){
       buttons = (  
           <React.Fragment>
-              <li><button className="logout" onClick={logout}>LogOut</button></li>
+              <li><button className="logout" onClick={logout}>Salir</button></li>
           </React.Fragment>)
   }else{
       buttons = (    
           <React.Fragment>
-              <li><Link to="/signin1">signIn</Link></li>
-              <li><Link to="/login">logIn</Link></li>              
+              <li><Link to="/signin1">
+Registrarse</Link></li>
+              <li><Link to="/login">Entrar</Link></li>              
           </React.Fragment>)
   }
 
@@ -55,7 +56,7 @@ const Nav = (props) => {
          
         </ul>
         <ul>
-        <li><Link to="/create">new post</Link></li>
+        <li><Link to="/create">Cotizar</Link></li>
         {buttons}
      
         </ul>
