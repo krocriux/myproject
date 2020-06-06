@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Car from '/Users/stanislavpegov/liberameapp1/src/images/calefont9.png'
+import Car from '/Users/stanislavpegov/liberameapp1/src/images/calefont41.png'
 import {Route, Switch, Link } from 'react-router-dom';
 
 export default class boxservice extends Component {
@@ -14,8 +14,8 @@ export default class boxservice extends Component {
                 display: 'inline-block', 
                 flexdirection: 'row', 
                 marginTop: '50px',
-                marginRight: '20px',
-                marginLeft: '240px'
+                marginRight: '10px',
+                marginLeft: '10px'
                
 
                     
@@ -25,7 +25,7 @@ export default class boxservice extends Component {
                 
                 <div style={{
                     
-                    height: '60px', 
+                    height: '60px',
                     width:'168px', 
                     backgroundColor: 'white', 
                     paddingTop: '150px',
@@ -54,7 +54,7 @@ export default class boxservice extends Component {
                 marginLeft: '20px', 
                 fontSize: '20px'}}
                 
-                >    Calefont  </h2>
+                >    Fuga de gas  </h2>
     </div></div>
     </Link> 
         )

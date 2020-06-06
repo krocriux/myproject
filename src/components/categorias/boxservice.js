@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Car from '/Users/stanislavpegov/liberameapp1/src/images/calefont11.png'
+import Car from '/Users/stanislavpegov/liberameapp1/src/images/calefont10.png'
 import {Route, Switch, Link } from 'react-router-dom';
 
 export default class boxservice extends Component {
@@ -14,8 +14,8 @@ export default class boxservice extends Component {
                 display: 'inline-block', 
                 flexdirection: 'row', 
                 marginTop: '50px',
-                marginRight: '20px',
-                marginLeft: '140px'
+                marginRight: '10px',
+                marginLeft: '80px'
                
 
                     

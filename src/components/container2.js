@@ -36,6 +36,9 @@ export default function SimpleContainer() {
     <Boxservice7 ></Boxservice7>
     <Boxservice8 ></Boxservice8>
     <Boxservice9 ></Boxservice9> 
+    <Boxservice11 ></Boxservice11> 
+    <Boxservice10 ></Boxservice10> 
+    
     
     
    
